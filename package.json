@@ -1,0 +1,24 @@
+{
+  "name": "isofiltjs",
+  "version": "1.0.0",
+  "description": "recursive data filtering service",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomoGlobal/isofiltjs.git"
+  },
+  "author": "Phil Toms",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SomoGlobal/isofiltjs/issues"
+  },
+  "homepage": "https://github.com/SomoGlobal/isofiltjs#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "testdouble": "^3.8.2",
+    "testdouble-jest": "^2.0.0"
+  }
+}
